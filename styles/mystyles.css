@@ -1,0 +1,41 @@
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: underline;
+    color: white;
+}
+
+.linkedin {
+    font-style: italic;
+}
+
+.copyright {
+    font-size: 12px;
+}
+
+.name {
+    font-weight: 650
+}
+
+.orderedlist {
+    font-size: 20px;
+    font-family: serif
+}
+
+.unorderedlist {
+    font-style: normal;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 325;
+}
+
+.byulink {
+    color:navy;
+}
